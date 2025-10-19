@@ -1,0 +1,10 @@
+{
+  "domain": "aggregated_todos",
+  "name": "Aggregated Todos",
+  "version": "1.0.0",
+  "requirements": [],
+  "documentation": "https://www.home-assistant.io/integrations/todo/",
+  "codeowners": [
+    "@yourusername"
+  ]
+}
