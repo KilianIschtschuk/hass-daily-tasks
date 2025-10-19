@@ -1,4 +1,7 @@
 {
-  "name": "daily-tasks",
-  "content_in_root": false
+  "name": "Daily Tasks Sensor",
+  "domains": [
+    "sensor"
+  ],
+  "render_readme": true
 }
