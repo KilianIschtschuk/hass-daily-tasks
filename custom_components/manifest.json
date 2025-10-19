@@ -1,0 +1,12 @@
+{
+  "domain": "daily_tasks",
+  "name": "Daily Tasks Sensor",
+  "documentation": "https://github.com/gemini/home-assistant-daily-tasks",
+  "issue_tracker": "https://github.com/gemini/home-assistant-daily-tasks/issues",
+  "codeowners": [],
+  "dependencies": [
+    "todo"
+  ],
+  "version": "1.0.1",
+  "iot_class": "local_polling"
+}
